@@ -1,0 +1,2 @@
+# ParallaxCarouselSwiftUI
+SwiftUI实现图片视差轮播组件
